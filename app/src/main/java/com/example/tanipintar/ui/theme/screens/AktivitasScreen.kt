@@ -89,3 +89,5 @@ fun aktivitasItem(data: Aktivitas, navController: NavController) {
         }
     }
 }
+
+
