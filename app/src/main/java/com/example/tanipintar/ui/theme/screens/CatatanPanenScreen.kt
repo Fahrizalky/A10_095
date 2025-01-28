@@ -94,3 +94,5 @@ fun CatatanPanenScreen(navController: NavController, viewModel: CatatanViewModel
         }
     }
 }
+
+
