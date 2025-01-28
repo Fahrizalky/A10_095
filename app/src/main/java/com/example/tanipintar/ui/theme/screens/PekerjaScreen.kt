@@ -60,7 +60,9 @@ fun PekerjaScreen(navController: NavController, viewModel: PekerjaViewModel) {
         }
     }
 }
+
 //
+
 @Composable
  fun pekerjaItem(data: Pekerja, navController: NavController) {
     Card(
