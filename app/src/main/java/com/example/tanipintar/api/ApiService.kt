@@ -119,3 +119,4 @@ fun getAllpekerja(): Call<List<Pekerja>>
         @Query("id_aktivitas") idAktivitas: Int
     ): Call<ResponseBody>
 }
+
