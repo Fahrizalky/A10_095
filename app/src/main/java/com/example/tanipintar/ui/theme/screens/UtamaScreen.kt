@@ -57,6 +57,7 @@ fun UtamaScreen(navController: NavController, viewModel: TanamanViewModel) {
     }
 }
 
+
 data class MenuItem(
     val label: String,
     val iconRes: Int,
@@ -94,5 +95,6 @@ fun MenuCard(item: MenuItem, navController: NavController) {
         }
     }
 }
+
 
 
