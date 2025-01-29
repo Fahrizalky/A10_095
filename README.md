@@ -1,5 +1,4 @@
-*Halaman Uatama*
-![halaman utama](https://github.com/user-attachments/assets/f7cd604f-d275-4784-b2d3-1e3b7355ed9b)
+*Halaman Uatama*![halaman utama](https://github.com/user-attachments/assets/f7cd604f-d275-4784-b2d3-1e3b7355ed9b)
 *Detail Tanaman*
 ![Detaill tanaman](https://github.com/user-attachments/assets/53ef5148-165f-4e1e-90dd-aaeb5f1a7cb0)
 *Tambah Tanaman*
